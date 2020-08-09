@@ -57,7 +57,7 @@ export default function Layout({ children, home }) {
       {!home && (
         <div className={styles.backToHome}>
           <Link href="/">
-            <a>← گەڕانەوە</a>
+            <a> ➡ گەڕانەوە </a>
           </Link>
         </div>
       )}
